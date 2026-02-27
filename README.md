@@ -37,8 +37,10 @@ I’m a passionate full-stack developer focused on building clean, high-performa
 ## 🌟 Highlighted Work
 
 ### 🧠 Developer Tools
-- **Schemerr** – AI-powered CLI for workflow automation  
-- **Moduly** – Architecture analysis tool with 3D visualizations  
+- **Schemerr** – AI-powered tool for deployment automation  
+- **Moduly** – Architecture analysis tool with 3D visualizations
+- - **Moduly-cli** – The cli for architecture analysis tool with 3D visualizations
+- - **Schemerr-cli** – the cli tool for deploying with a single command 
 
 ### 🌐 Full-Stack Platforms
 - **Fleek Reporter** – Social media platform (Next.js + Supabase)  
