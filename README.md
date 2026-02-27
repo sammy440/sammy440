@@ -1,16 +1,74 @@
-## Hi there 👋
+<!-- Modern Header Banner -->
+<h1 align="center">Hi 👋, I'm Ayomide Samuel</h1>
+<h3 align="center">Full-Stack Developer • Building Modern & Scalable Web Applications</h3>
 
-<!--
-**sammy440/sammy440** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://ayo0xx2.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://github.com/sammy440">
+    <img src="https://img.shields.io/github/followers/sammy440?style=for-the-badge"/>
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I’m a passionate full-stack developer focused on building clean, high-performance applications with modern technologies.
+
+- 🔭 Currently building developer tools & scalable web platforms  
+- 🌱 Exploring backend architecture & system design  
+- ⚡ Strong focus on performance, UI/UX & clean code  
+- 📍 Lagos, Nigeria  
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,next,node,python,tailwind,postgres,supabase,prisma,git" />
+
+</p>
+
+---
+
+## 🌟 Highlighted Work
+
+### 🧠 Developer Tools
+- **Schemerr** – AI-powered CLI for workflow automation  
+- **Moduly** – Architecture analysis tool with 3D visualizations  
+
+### 🌐 Full-Stack Platforms
+- **Fleek Reporter** – Social media platform (Next.js + Supabase)  
+- **Wild Oasis** – Booking platform + Admin dashboard  
+- **Songify** – Music streaming platform  
+
+### 🧩 Productivity Apps
+- Expense Tracker  
+- Habit Tracker  
+- PDF Tools Suite  
+
+Explore more 👉 https://ayo0xx2.vercel.app/projects
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=sammy440&show_icons=true&theme=transparent&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammy440&layout=compact&theme=transparent&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 Current Focus
+
+```ts
+const sammy = {
+  building: "Scalable Web Applications",
+  learning: "Advanced Backend Architecture",
+  interests: ["Developer Tools", "System Design", "Modern UI"],
+  openToWork: true
+}
