@@ -52,7 +52,7 @@ I’m a passionate full-stack developer focused on building clean, high-performa
 - Habit Tracker  
 - PDF Tools Suite  
 
-Explore more 👉 https://ayo0xx2.vercel.app/projects
+Explore more 👉 https://ayo-devv.vercel.app
 
 ---
 
