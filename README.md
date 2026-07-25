@@ -20,7 +20,6 @@ I’m a passionate full-stack developer focused on building clean, high-performa
 - 🔭 Currently building developer tools & scalable web platforms  
 - 🌱 Exploring backend architecture & system design  
 - ⚡ Strong focus on performance, UI/UX & clean code  
-- 📍 Lagos, Nigeria  
 
 ---
 
