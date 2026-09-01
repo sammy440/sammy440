@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ayomide Samuel</h1>
+<h1 align="center">Ayomide Samuel</h1>
 <p align="center">
   <strong>Full-Stack Engineer building modern, scalable, and developer-focused products.</strong>
 </p>
@@ -89,11 +89,18 @@ Some areas I’m currently exploring:
 
 ⸻
 
-GitHub Analytics
+GitHub
+
+I use GitHub as my workspace for building, experimenting, and shipping software — from full-stack applications and developer tooling to AI-powered products.
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=sammy440&show_icons=true&theme=transparent&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammy440&layout=compact&theme=transparent&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=sammy440" alt="GitHub Contribution Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sammy440&hide_border=true&area=true" alt="GitHub Activity" />
+</p>
+<p align="center">
+  <a href="https://github.com/sammy440?tab=repositories">View my repositories →</a>
 </p>
 
 ⸻
