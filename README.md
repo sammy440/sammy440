@@ -125,7 +125,6 @@ const sammy = {
   ],
   openToWork: true
 }
-
 ⸻
 
 <p align="center">
