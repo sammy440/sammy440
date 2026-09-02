@@ -107,6 +107,7 @@ I use GitHub as my workspace for building, experimenting, and shipping software 
 
 Current Focus
 
+```ts
 const sammy = {
   building: [
     "Scalable Web Applications",
@@ -125,6 +126,8 @@ const sammy = {
   ],
   openToWork: true
 }
+```
+
 ⸻
 
 <p align="center">
