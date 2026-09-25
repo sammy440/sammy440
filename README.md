@@ -5,7 +5,7 @@
 <a href="https://x.com/ayo0xx2">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons/x.svg?color=%23ffffff">
-    <img src="https://api.iconify.design/simple-icons/x.svg?color=%23000000" height="22" alt="X"/>
+    <img src="https://api.iconify.design/simple-icons/x.svg?color=%23000000" height="16" alt="X"/>
   </picture>
 </a>&nbsp;&nbsp;&nbsp;
 <a href="https://ayo-devv.vercel.app/Ayomide-Samuel-Resume.pdf"><img src="https://api.iconify.design/mdi/file-account.svg?color=%23F59E0B" height="32" alt="Resume"/></a>
